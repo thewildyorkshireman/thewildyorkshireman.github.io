@@ -222,7 +222,7 @@ a{
 }
 
 /* CSS to convert site to mobile */
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 800px){
 	#imgLogo {
 	width: 75%;
 	height: 24%;
