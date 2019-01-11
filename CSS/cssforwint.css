@@ -4,6 +4,10 @@
 	padding: 0px;
 	border: 0px;
 }
+html{
+	min-width: 100%vh;
+	min-height: 100%vw
+}
 body {
 	min-height: 100%vh;
 	min-width: 100%vw;
@@ -55,7 +59,10 @@ ul{
 a{
 	font-family: Helvetica, Ariel, San-serif;
 }
-#wrapper{
+#bgC{
+	background-color: #000066;
+	min-width: 100%vw;
+	min-height: 100%vh;
 }
 
 
